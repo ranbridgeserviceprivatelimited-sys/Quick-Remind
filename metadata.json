@@ -1,0 +1,6 @@
+{
+  "name": "Quick Remind",
+  "description": "AI-powered personal memory assistant, smart natural language reminders, project tracker, and voice memory system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
